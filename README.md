@@ -65,24 +65,24 @@ Preprint, 2022
 *Ph.D. Thesis Colloquium, ECE Department, Indian Institute of Science, October 2021 [Slides](./files/ResearchPresentations/202110-ThesisColloquium.pdf)*
 
 * **Large deviations of mean-field interacting particle systems in a fast varying environment**  
-*10th World Congress on Probability and Statistics, July 2021 [Poster](./files/ResearchPresentations/2202107IMSBernoulli_Poster.pdf) [Slides](./files/ResearchPresentations/2202107IMSBernoulli_Slides.pdf)  [Video](./files/ResearchPresentations/2202107IMSBernoulli_Video.mp4)  
+*10th World Congress on Probability and Statistics, July 2021 [Poster](./files/ResearchPresentations/202107IMSBernoulli_Poster.pdf) [Slides](./files/ResearchPresentations/202107IMSBernoulli_Slides.pdf)  [Video](./files/ResearchPresentations/202107IMSBernoulli_Video.mp4)  
 Bangalore Probability Seminar, May 2021  [Slides](./files/ResearchPresentations/202105BPS.pdf)*
 
 * **The four levels of fixed-points in mean-field models**  
-*National Conference on Communications, July 2021 [Slides](./files/ResearchPresentations/2202107NCC_Slides.pdf)  [Video](./files/ResearchPresentations/2202107NCC_Video.mp4)*
+*National Conference on Communications, July 2021 [Slides](./files/ResearchPresentations/202107NCC_Slides.pdf)  [Video](./files/ResearchPresentations/202107NCC_Video.mp4)*
 
-* [**Metastability phenomenon: Large deviations in the stationary regime**]   
-*Networks Seminar, Centre for Networked Intelligence, Indian Institute of Science, July 2020 [Slides](./files/ResearchPresentations/2202007NetworksSeminar.pdf)*
+* **Metastability phenomenon: Large deviations in the stationary regime**   
+*Networks Seminar, Centre for Networked Intelligence, Indian Institute of Science, July 2020 [Slides](./files/ResearchPresentations/202007NetworksSeminar.pdf)*
 
 * **Large time behaviour and the second eigenvalue problem for finite state mean-field interacting particle systems**  
-*EECE Research Students Symposium, Indian Institute of Science, July 2020  [Slides](./files/ResearchPresentations/2202007EECSSymposium.pdf)  
-STCS Annual Symposium, TIFR Mumbai, February 2020  [Slides](./files/ResearchPresentations/2202002TIFRSymposium.pdf)  
-Lectures on Probability and Stochastic Processes, ISI Delhi, December 2019  [Slides](./files/ResearchPresentations/2201912LPSSlides.pdf)   
-Advances in Applied Probability, ICTS Bengaluru, August 2019  [Poster](./files/ResearchPresentations/2201908ICTSAAPPoster.pdf)  [Slides](./files/ResearchPresentations/2201909ICTSAAPSummarySlides.pdf)*  
+*EECE Research Students Symposium, Indian Institute of Science, July 2020  [Slides](./files/ResearchPresentations/202007EECSSymposium.pdf)  
+STCS Annual Symposium, TIFR Mumbai, February 2020  [Slides](./files/ResearchPresentations/202002TIFRSymposium.pdf)  
+Lectures on Probability and Stochastic Processes, ISI Delhi, December 2019  [Slides](./files/ResearchPresentations/201912LPSSlides.pdf)   
+Advances in Applied Probability, ICTS Bengaluru, August 2019  [Poster](./files/ResearchPresentations/201908ICTSAAPPoster.pdf)  [Slides](./files/ResearchPresentations/2201909ICTSAAPSummarySlides.pdf)*  
 
 * **Nonzero-sum adversarial hypothesis testing games**  
-*Neural Information Processing Systems (NeurIPS), December 2019  [Poster](./files/ResearchPresentations/2201912NeurIPSPoster.pdf)  
-Networks Seminar, ECE Department, Indian Institute of Science, September 2019  [Slides](./files/ResearchPresentations/2201909NetworksSeminar.pdf)*
+*Neural Information Processing Systems (NeurIPS), December 2019  [Poster](./files/ResearchPresentations/201912NeurIPSPoster.pdf)  
+Networks Seminar, ECE Department, Indian Institute of Science, September 2019  [Slides](./files/ResearchPresentations/201909NetworksSeminar.pdf)*
 
 * **Stability and delay analysis of delay tolerant network with random message arrivals**  
-*COMSNETS, 2017 [Slides](./files/ResearchPresentations/22017Comsnets.pdf)*
+*COMSNETS, 2017 [Slides](./files/ResearchPresentations/2017Comsnets.pdf)*
