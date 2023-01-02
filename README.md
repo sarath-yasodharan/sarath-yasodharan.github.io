@@ -52,3 +52,37 @@ Preprint, 2022
 
 * [**COVID-19 Epidemic Study II: Phased Emergence From the Lockdown in Mumbai**](https://arxiv.org/abs/2006.03375) (with Prahladh Harsha, Sandeep Juneja, Preetam Patil, Nihesh Rathod, Ramprasad Saptharishi, Sharad Sriram, Piyush Srivastava, Rajesh Sundaresan, and Nidhin Koshy Vaidhiyan)  
 *Technical Report, June 2020*
+
+# Research Presentations
+
+* [**Mean-field interacting particle systems: Limit laws and large deviations**](./files/ResearchPresentations/202206-SigmetricsTutorial.pdf)  (with Rajesh Sundaresan)  
+*ACM SIGMETRICS / IFIP PERFORMANCE Tutorial, June 2022*
+
+* **A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**  
+*Bangalore Probability Seminar, April 2022  [Slides](./files/ResearchPresentations/202204-BPS.pdf)  [Video](https://youtu.be/bVZm6xmKpKQ?t=1889)*
+
+* **Large Time Behaviour and Metastability in Mean-Field Interacting Particle Systems**  
+*Ph.D. Thesis Colloquium, ECE Department, Indian Institute of Science, October 2021 [Slides](./files/ResearchPresentations/202110-ThesisColloquium.pdf)*
+
+* **Large deviations of mean-field interacting particle systems in a fast varying environment**  
+*10th World Congress on Probability and Statistics, July 2021 [Poster](./files/ResearchPresentations/2202107IMSBernoulli_Poster.pdf) [Slides](./files/ResearchPresentations/2202107IMSBernoulli_Slides.pdf)  [Video](./files/ResearchPresentations/2202107IMSBernoulli_Video.mp4)  
+Bangalore Probability Seminar, May 2021  [Slides](./files/ResearchPresentations/202105BPS.pdf)*
+
+* **The four levels of fixed-points in mean-field models**  
+*National Conference on Communications, July 2021 [Slides](./files/ResearchPresentations/2202107NCC_Slides.pdf)  [Video](./files/ResearchPresentations/2202107NCC_Video.mp4)*
+
+* [**Metastability phenomenon: Large deviations in the stationary regime**](./files/ResearchPresentations/2202007NetworksSeminar.pdf)  
+*Networks Seminar, Centre for Networked Intelligence, Indian Institute of Science, July 2020*
+
+* **Large time behaviour and the second eigenvalue problem for finite state mean-field interacting particle systems**  
+*EECE Research Students Symposium, Indian Institute of Science, July 2020  [Slides](./files/ResearchPresentations/2202007EECSSymposium.pdf)  
+STCS Annual Symposium, TIFR Mumbai, February 2020  [Slides](./files/ResearchPresentations/2202002TIFRSymposium.pdf)  
+Lectures on Probability and Stochastic Processes, ISI Delhi, December 2019  [Slides](./files/ResearchPresentations/2201912LPSSlides.pdf)   
+Advances in Applied Probability, ICTS Bengaluru, August 2019  [Poster](./files/ResearchPresentations/2201908ICTSAAPPoster.pdf)  [Slides](./files/ResearchPresentations/2201909ICTSAAPSummarySlides.pdf)*  
+
+* **Nonzero-sum adversarial hypothesis testing games**  
+*Neural Information Processing Systems (NeurIPS), December 2019  [Poster](./files/ResearchPresentations/2201912NeurIPSPoster.pdf)  
+Networks Seminar, ECE Department, Indian Institute of Science, September 2019  [Slides](./files/ResearchPresentations/2201909NetworksSeminar.pdf)*
+
+* **Stability and delay analysis of delay tolerant network with random message arrivals**
+*COMSNETS, 2017 [Slides](./files/ResearchPresentations/22017Comsnets.pdf)*
