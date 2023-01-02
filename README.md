@@ -71,8 +71,8 @@ Bangalore Probability Seminar, May 2021  [Slides](./files/ResearchPresentations/
 * **The four levels of fixed-points in mean-field models**  
 *National Conference on Communications, July 2021 [Slides](./files/ResearchPresentations/2202107NCC_Slides.pdf)  [Video](./files/ResearchPresentations/2202107NCC_Video.mp4)*
 
-* [**Metastability phenomenon: Large deviations in the stationary regime**](./files/ResearchPresentations/2202007NetworksSeminar.pdf)  
-*Networks Seminar, Centre for Networked Intelligence, Indian Institute of Science, July 2020*
+* [**Metastability phenomenon: Large deviations in the stationary regime**]   
+*Networks Seminar, Centre for Networked Intelligence, Indian Institute of Science, July 2020 [Slides](./files/ResearchPresentations/2202007NetworksSeminar.pdf)*
 
 * **Large time behaviour and the second eigenvalue problem for finite state mean-field interacting particle systems**  
 *EECE Research Students Symposium, Indian Institute of Science, July 2020  [Slides](./files/ResearchPresentations/2202007EECSSymposium.pdf)  
@@ -84,5 +84,5 @@ Advances in Applied Probability, ICTS Bengaluru, August 2019  [Poster](./files/R
 *Neural Information Processing Systems (NeurIPS), December 2019  [Poster](./files/ResearchPresentations/2201912NeurIPSPoster.pdf)  
 Networks Seminar, ECE Department, Indian Institute of Science, September 2019  [Slides](./files/ResearchPresentations/2201909NetworksSeminar.pdf)*
 
-* **Stability and delay analysis of delay tolerant network with random message arrivals**
+* **Stability and delay analysis of delay tolerant network with random message arrivals**  
 *COMSNETS, 2017 [Slides](./files/ResearchPresentations/22017Comsnets.pdf)*
