@@ -3,6 +3,8 @@ I am a postdoctoral research associate in the [Division of Applied Mathematics](
 
 I am broadly interested in applied probability. My current research aims to understand the behavior of interacting particle systems on sparse graphs. My Ph.D. research focused on the study of large-time behavior and metastability in models of mean-field interacting particle systems, with applications to communication networks.
 
+[Email](mailto:sarath_yasodharan@brown.edu): sarath_yasodharan AT brown.edu
+
 # Publications and preprints
 
 ## Preprints
