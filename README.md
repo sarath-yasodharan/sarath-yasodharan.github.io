@@ -14,7 +14,7 @@ Preprint, 2022
 
 ## Journals
 
-** [**Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems**](https://arxiv.org/abs/1909.03805) (with Rajesh Sundaresan)  
+* [**Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems**](https://arxiv.org/abs/1909.03805) (with Rajesh Sundaresan)  
 *Advances in Applied Probability (to appear), 2022*
 
 * [**Large deviations of mean-field interacting particle systems in a fast varying environment**](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Large-deviations-of-mean-field-interacting-particle-systems-in-a/10.1214/21-AAP1718.short) (with Rajesh Sundaresan)  
