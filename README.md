@@ -41,3 +41,14 @@ Preprint, 2022
 
 * [**Large Time Behaviour and Metastability in Mean-Field Interacting Particle Systems**](./files/PhDThesis.pdf)  
 *Indian Institute of Science, Bengaluru, India, January 2022*
+
+## Technical Reports
+
+* [**Impact of weeknight and weekend curfews using mobility data: A case study of Bengaluru Urban**](https://www.medrxiv.org/content/10.1101/2022.01.26.22269903v1) (with Aniruddha Adiga,  Siva Athreya, Madhav Marathe, Jagadish Midthala, Nihesh Rathod,  Rajesh Sundaresan, and Srinivasan Venkataramanan)  
+*Technical Report, January 2022*
+
+* [**Strategies to Mitigate COVID-19 Resurgence Assuming Immunity Waning: A Study for Karnataka, India**](https://www.medrxiv.org/content/10.1101/2021.05.26.21257836v1) (with Aniruddha Adiga, Siva Athreya, Bryan Lewis, Madhav V. Marathe, Nihesh Rathod, Rajesh Sundaresan, Samarth Swarup, and Srinivasan Venkatramanan)  
+*Technical Report, May 2021*
+
+* [**COVID-19 Epidemic Study II: Phased Emergence From the Lockdown in Mumbai**](https://arxiv.org/abs/2006.03375) (with Prahladh Harsha, Sandeep Juneja, Preetam Patil, Nihesh Rathod, Ramprasad Saptharishi, Sharad Sriram, Piyush Srivastava, Rajesh Sundaresan, and Nidhin Koshy Vaidhiyan)  
+*Technical Report, June 2020*
