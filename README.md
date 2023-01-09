@@ -79,7 +79,7 @@ Bangalore Probability Seminar, May 2021  [Slides](./files/ResearchPresentations/
 *Networks Seminar, Centre for Networked Intelligence, Indian Institute of Science, July 2020 [Slides](./files/ResearchPresentations/202007NetworksSeminar.pdf)*
 
 * **Large time behaviour and the second eigenvalue problem for finite state mean-field interacting particle systems**  
-*EECE Research Students Symposium, Indian Institute of Science, July 2020  [Slides](./files/ResearchPresentations/202007EECSSymposium.pdf)  
+*EECS Research Students Symposium, Indian Institute of Science, July 2020  [Slides](./files/ResearchPresentations/202007EECSSymposium.pdf)  
 STCS Annual Symposium, TIFR Mumbai, February 2020  [Slides](./files/ResearchPresentations/202002TIFRSymposium.pdf)  
 Lectures on Probability and Stochastic Processes, ISI Delhi, December 2019  [Slides](./files/ResearchPresentations/201912LPSSlides.pdf)   
 Advances in Applied Probability, ICTS Bengaluru, August 2019  [Poster](./files/ResearchPresentations/201908ICTSAAPPoster.pdf)  [Slides](./files/ResearchPresentations/2201909ICTSAAPSummarySlides.pdf)*  
