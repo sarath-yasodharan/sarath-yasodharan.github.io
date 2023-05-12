@@ -13,10 +13,13 @@ I am broadly interested in applied probability. My current research aims to unde
 * [**A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2110.12640&sa=D&sntz=1&usg=AOvVaw0HzHtB4rEMqd1qmDOKAelL) (with Rajesh Sundaresan)  
 Preprint, 2022
 
-* **Revenue Optimal Bandwidth Allocation in a Class of Multihop Networks: Algorithms and Asymptotic Optimality** (with Anurag Kumar)  
-Preprint, 2022
-
 ## Journals
+
+* [**Bus priority lane in Bengaluru: A study on its effectiveness and driver stress**] (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma)
+*Transport Policy (to appear), 2023*
+
+* [**Revenue Optimal Bandwidth Allocation in a Class of Multihop Networks: Algorithms and Asymptotic Optimality**](https://ieeexplore.ieee.org/document/10061697) (with Anurag Kumar)  
+*IEEE/ACM Transactions on Networking, 2023*
 
 * [**Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems**](https://arxiv.org/abs/1909.03805) (with Rajesh Sundaresan)  
 *Advances in Applied Probability (to appear), 2022*
