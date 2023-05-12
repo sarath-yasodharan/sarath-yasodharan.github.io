@@ -15,7 +15,7 @@ Preprint, 2022
 
 ## Journals
 
-* **Bus priority lane in Bengaluru: A study on its effectiveness and driver stress** (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma)
+* **Bus priority lane in Bengaluru: A study on its effectiveness and driver stress** (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma) 
 *Transport Policy (to appear), 2023*
 
 * [**Revenue Optimal Bandwidth Allocation in a Class of Multihop Networks: Algorithms and Asymptotic Optimality**](https://ieeexplore.ieee.org/document/10061697) (with Anurag Kumar)  
