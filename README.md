@@ -15,14 +15,14 @@ Preprint, 2022
 
 ## Journals
 
-* [**Bus priority lane in Bengaluru: A study on its effectiveness and driver stress**] (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma)
+* **Bus priority lane in Bengaluru: A study on its effectiveness and driver stress** (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma)
 *Transport Policy (to appear), 2023*
 
 * [**Revenue Optimal Bandwidth Allocation in a Class of Multihop Networks: Algorithms and Asymptotic Optimality**](https://ieeexplore.ieee.org/document/10061697) (with Anurag Kumar)  
 *IEEE/ACM Transactions on Networking, 2023*
 
 * [**Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems**](https://arxiv.org/abs/1909.03805) (with Rajesh Sundaresan)  
-*Advances in Applied Probability (to appear), 2022*
+*Advances in Applied Probability, 55(1):85--125, March 2023*
 
 * [**Large deviations of mean-field interacting particle systems in a fast varying environment**](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Large-deviations-of-mean-field-interacting-particle-systems-in-a/10.1214/21-AAP1718.short) (with Rajesh Sundaresan)  
 *The Annals of Applied Probability, 32(3):1666-1704, June 2022*
