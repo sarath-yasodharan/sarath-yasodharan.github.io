@@ -14,11 +14,12 @@ I am broadly interested in applied probability. My current research aims to unde
 * [**A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2110.12640&sa=D&sntz=1&usg=AOvVaw0HzHtB4rEMqd1qmDOKAelL) (with Rajesh Sundaresan)  
 *Advances in Applied Probability (to appear), 2023+*
 
-* [**Bus priority lane in Bengaluru: A study on its effectiveness and driver stress**](https://www.sciencedirect.com/science/article/pii/S0967070X2300121X#:~:text=The%20study%20finds%20that%20BPLs,and%20the%20level%20of%20enforcement.) (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma)  
-*Transport Policy, 139:39--62, August 2023*
-
 * [**Revenue Optimal Bandwidth Allocation in a Class of Multihop Networks: Algorithms and Asymptotic Optimality**](https://ieeexplore.ieee.org/document/10061697) (with Anurag Kumar)  
 *IEEE/ACM Transactions on Networking, 31(5):2251--2266, October 2023*
+
+* [**Bus priority lane in Bengaluru: A study on its effectiveness and driver stress**](https://www.sciencedirect.com/science/article/pii/S0967070X2300121X#:~:text=The%20study%20finds%20that%20BPLs,and%20the%20level%20of%20enforcement.) (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma)  
+*Transport Policy, 139:39--62, August 2023*  
+(Part of the special issue on ``City Transportation -- Sustainable City Transportation in the Indian Subcontinent'')
 
 * [**Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems**](https://arxiv.org/abs/1909.03805) (with Rajesh Sundaresan)  
 *Advances in Applied Probability, 55(1):85--125, March 2023*
