@@ -19,7 +19,7 @@ I am broadly interested in applied probability. My current research aims to unde
 
 * [**Bus priority lane in Bengaluru: A study on its effectiveness and driver stress**](https://www.sciencedirect.com/science/article/pii/S0967070X2300121X#:~:text=The%20study%20finds%20that%20BPLs,and%20the%20level%20of%20enforcement.) (with P. N. Karthik, Nihesh Rathod, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan, and Pratik Verma)  
 *Transport Policy, 139:39--62, August 2023*  
-(Part of the special issue on ``City Transportation -- Sustainable City Transportation in the Indian Subcontinent'')
+Part of the special issue on ``City Transportation -- Sustainable City Transportation in the Indian Subcontinent''
 
 * [**Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems**](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/largetime-behaviour-and-the-second-eigenvalue-problem-for-finitestate-meanfield-interacting-particle-systems/0130B85AD92C6C2DB51F9C1FED5367B7) (with Rajesh Sundaresan)  
 *Advances in Applied Probability, 55(1):85--125, March 2023*
