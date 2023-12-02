@@ -3,7 +3,7 @@
 
 I am a postdoctoral research associate in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at Brown University. Before coming to Brown, I obtained my Ph.D. from the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), Bengaluru, India.
 
-I am broadly interested in applied probability. My current research aims to understand the behavior of interacting particle systems on sparse graphs. My Ph.D. research focused on the study of large-time behavior and metastability in models of mean-field interacting particle systems, with applications to communication networks.
+I am broadly interested in applied probability. My current research aims to understand the behavior of interacting particle systems on sparse random graphs. My Ph.D. research focused on the study of large-time behavior and metastability in models of mean-field interacting particle systems, with applications to communication networks.
 
 [Email](mailto:sarath_yasodharan@brown.edu): sarath_yasodharan AT brown.edu
 
@@ -62,11 +62,13 @@ Part of the special issue on ``City Transportation -- Sustainable City Transport
 
 # Research Presentations
 
+* **A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**  
+Joint Mathematics Meetings, January 2023   
+*Bangalore Probability Seminar, April 2022  [Slides](./files/ResearchPresentations/202204-BPS.pdf)  [Video](https://youtu.be/bVZm6xmKpKQ?t=1889)*
+
+
 * [**Mean-field interacting particle systems: Limit laws and large deviations**](./files/ResearchPresentations/202206-SigmetricsTutorial.pdf)  (with Rajesh Sundaresan)  
 *ACM SIGMETRICS / IFIP PERFORMANCE Tutorial, June 2022*
-
-* **A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**  
-*Bangalore Probability Seminar, April 2022  [Slides](./files/ResearchPresentations/202204-BPS.pdf)  [Video](https://youtu.be/bVZm6xmKpKQ?t=1889)*
 
 * **Large Time Behaviour and Metastability in Mean-Field Interacting Particle Systems**  
 *Ph.D. Thesis Colloquium, ECE Department, Indian Institute of Science, October 2021 [Slides](./files/ResearchPresentations/202110-ThesisColloquium.pdf)*
