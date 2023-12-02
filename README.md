@@ -63,7 +63,7 @@ Part of the special issue on ``City Transportation -- Sustainable City Transport
 # Research Presentations
 
 * **A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**  
-Joint Mathematics Meetings, January 2023   
+*Joint Mathematics Meetings, January 2023*   
 *Bangalore Probability Seminar, April 2022  [Slides](./files/ResearchPresentations/202204-BPS.pdf)  [Video](https://youtu.be/bVZm6xmKpKQ?t=1889)*
 
 
