@@ -21,7 +21,7 @@ I am broadly interested in applied probability. My current research aims to unde
 *Transport Policy, 139:39--62, August 2023*  
 Part of the special issue on ``City Transportation -- Sustainable City Transportation in the Indian Subcontinent''
 
-* [**Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems**](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/largetime-behaviour-and-the-second-eigenvalue-problem-for-finitestate-meanfield-interacting-particle-systems/0130B85AD92C6C2DB51F9C1FED5367B7) (with Rajesh Sundaresan)  
+* [**Large-time behaviour and the second eigenvalue problem for finite state mean-field interacting particle systems**](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/largetime-behaviour-and-the-second-eigenvalue-problem-for-finitestate-meanfield-interacting-particle-systems/0130B85AD92C6C2DB51F9C1FED5367B7) (with Rajesh Sundaresan)  
 *Advances in Applied Probability, 55(1):85--125, March 2023*
 
 * [**Large deviations of mean-field interacting particle systems in a fast varying environment**](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-3/Large-deviations-of-mean-field-interacting-particle-systems-in-a/10.1214/21-AAP1718.short) (with Rajesh Sundaresan)  
