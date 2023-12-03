@@ -35,6 +35,9 @@ Part of the special issue on ``City Transportation -- Sustainable City Transport
 
 ## Conferences
 
+* **A Multi-Team Multi-Model Collaborative COVID-19 Forecasting Hub for India** (with Anuriddha Adiga et al.)  
+*Winter Simulation Conference, December 2023*
+
 * [**The Four Levels of Fixed-Points in Mean-Field Models**](https://ieeexplore.ieee.org/document/9530179) (with Rajesh Sundaresan)  
 *National Conference on Communications (NCC), July 2021*
 
