@@ -28,7 +28,7 @@ Part of the special issue on ``City Transportation -- Sustainable City Transport
 *The Annals of Applied Probability, 32(3):1666-1704, June 2022*
 
 * [**COVID-19: Optimal Design of Serosurveys for Disease Burden Estimation**](https://link.springer.com/article/10.1007/s13571-021-00267-w) (with Siva Athreya, Giridhara R. Babu, Aniruddha Iyer, Mohammed Minhaas B. S., Nihesh Rathod, Sharad Shriram, Rajesh Sundaresan, and Nidhin Koshy Vaidhiyan)  
-*Sankhya B, October 2021*
+*Sankhya B, 84:472--494, October 2021*
 
 * [**City-Scale Agent-Based Simulators for the Study of Non-Pharmaceutical Interventions in the Context of the COVID-19 Epidemic**](https://link.springer.com/article/10.1007/s41745-020-00211-3)  (with Shubhada Agrawal, Siddharth Bhandari, Anirban Bhattacharjee, Anand Deo, Narendra M. Dixit, Prahladh Harsha, Sandeep Juneja, Poonam Kesarwani, Aditya Krishna Swamy, Preetam Patil, Nihesh Rathod, Ramprasad Saptharishi, Sharad Shriram, Piyush Srivastava, Rajesh Sundaresan, and Nidhin Koshy Vaidhiyan)  
 *Journal of the Indian Institute of Science, 100(4):809-847, December 2020*
