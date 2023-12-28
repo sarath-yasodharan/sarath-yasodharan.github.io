@@ -73,9 +73,9 @@ Part of the special issue on ``City Transportation -- Sustainable City Transport
 
 
 * **A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**  
-*Joint Mathematics Meetings, January 2023  [Slides](./files/ResearchPresentations/202301JMM.pdf)*   
-*Bangalore Probability Seminar, April 2022  [Slides](./files/ResearchPresentations/202204-BPS.pdf)  [Video](https://youtu.be/bVZm6xmKpKQ?t=1889)*
+*Joint Mathematics Meetings, January 2023  [[Slides](./files/ResearchPresentations/202301JMM.pdf)*]    
+*Bangalore Probability Seminar, April 2022  [[Slides](./files/ResearchPresentations/202204-BPS.pdf)  [[Video](https://youtu.be/bVZm6xmKpKQ?t=1889)*]
 
 
-* [**Mean-field interacting particle systems: Limit laws and large deviations**](./files/ResearchPresentations/202206-SigmetricsTutorial.pdf)  (with Rajesh Sundaresan)  
-*ACM SIGMETRICS / IFIP PERFORMANCE Tutorial, June 2022*
+* [**Mean-field interacting particle systems: Limit laws and large deviations**] (with Rajesh Sundaresan)  
+*ACM SIGMETRICS / IFIP PERFORMANCE Tutorial, June 2022*  [[Slides](./files/ResearchPresentations/202206-SigmetricsTutorial.pdf)]
