@@ -77,5 +77,5 @@ Part of the special issue on ``City Transportation -- Sustainable City Transport
 *Bangalore Probability Seminar, April 2022  [[Slides](./files/ResearchPresentations/202204-BPS.pdf)  [[Video](https://youtu.be/bVZm6xmKpKQ?t=1889)*]
 
 
-* [**Mean-field interacting particle systems: Limit laws and large deviations**] (with Rajesh Sundaresan)  
+* **Mean-field interacting particle systems: Limit laws and large deviations** (with Rajesh Sundaresan)  
 *ACM SIGMETRICS / IFIP PERFORMANCE Tutorial, June 2022*  [[Slides](./files/ResearchPresentations/202206-SigmetricsTutorial.pdf)]
