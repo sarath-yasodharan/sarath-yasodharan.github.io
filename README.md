@@ -1,11 +1,11 @@
 
 # About Me
 
-I am a postdoctoral research associate in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at Brown University. Before coming to Brown, I obtained my Ph.D. from the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), Bengaluru, India.
+I am an assistant professor in the [Department of Industrial Engineering and Operations Research](https://ieor.iitb.ac.in/) (IEOR) at [IIT Bombay](https://iitb.ac.in). Previously, I was a postdoctoral research associate in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at Brown University. I obtained my Ph.D. from the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), Bengaluru, India. 
 
-I am broadly interested in applied probability. My current research aims to understand the behavior of interacting particle systems on sparse random graphs. My Ph.D. research focused on the study of large-time behavior and metastability in models of mean-field interacting particle systems, with applications to communication networks. Click [here](./files/CV.pdf) for a brief CV.
+My research interests are in applied probability, stochastic networks, and data analytics. Click [here](./files/CV.pdf) for a brief CV.
 
-[Email](mailto:sarath_yasodharan@brown.edu): sarath_yasodharan AT brown.edu
+[Email](mailto:sarath_yasodharan@iitb.ac.in): sarath_yasodharan AT iitb.ac.in
 
 # Publications and Preprints
 
@@ -17,7 +17,7 @@ I am broadly interested in applied probability. My current research aims to unde
 ## Journals
 
 * [**A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2110.12640&sa=D&sntz=1&usg=AOvVaw0HzHtB4rEMqd1qmDOKAelL) (with Rajesh Sundaresan)  
-*Advances in Applied Probability (to appear), 2023+*
+*Advances in Applied Probability, 56(3):960--1003, September 2024*
 
 * [**Revenue Optimal Bandwidth Allocation in a Class of Multihop Networks: Algorithms and Asymptotic Optimality**](https://ieeexplore.ieee.org/document/10061697) (with Anurag Kumar)  
 *IEEE/ACM Transactions on Networking, 31(5):2251--2266, October 2023*
