@@ -68,14 +68,5 @@ Part of the special issue on ``City Transportation -- Sustainable City Transport
 * [**COVID-19 Epidemic Study II: Phased Emergence From the Lockdown in Mumbai**](https://arxiv.org/abs/2006.03375) (with Prahladh Harsha, Sandeep Juneja, Preetam Patil, Nihesh Rathod, Ramprasad Saptharishi, Sharad Sriram, Piyush Srivastava, Rajesh Sundaresan, and Nidhin Koshy Vaidhiyan)  
 *Technical Report, June 2020*
 
-# Selected Talks
 
 
-
-* **A sufficient condition for the quasipotential to be the rate function of the invariant measure of countable-state mean-field interacting particle systems**  
-*Joint Mathematics Meetings, January 2023  [[Slides](./files/ResearchPresentations/202301JMM.pdf)]*       
-*Bangalore Probability Seminar, April 2022  [[Slides](./files/ResearchPresentations/202204-BPS.pdf)]  [[Video](https://youtu.be/bVZm6xmKpKQ?t=1889)]*  
-
-
-* **Mean-field interacting particle systems: Limit laws and large deviations** (with Rajesh Sundaresan)  
-*ACM SIGMETRICS / IFIP PERFORMANCE Tutorial, June 2022  [[Slides](./files/ResearchPresentations/202206-SigmetricsTutorial.pdf)]*  
