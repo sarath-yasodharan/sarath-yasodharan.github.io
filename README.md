@@ -1,7 +1,7 @@
 
 # About Me
 
-I am an assistant professor in the [Department of Industrial Engineering and Operations Research](https://ieor.iitb.ac.in/) (IEOR) at [IIT Bombay](https://iitb.ac.in). Previously, I was a postdoctoral research associate in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at Brown University. I obtained my Ph.D. from the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), Bengaluru, India. 
+I am an assistant professor in the [Department of Industrial Engineering and Operations Research](https://www.ieor.iitb.ac.in/) (IEOR) at [IIT Bombay](https://iitb.ac.in). Previously, I was a postdoctoral research associate in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at Brown University. I obtained my Ph.D. from the [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), Bengaluru, India. 
 
 My research interests are in applied probability, stochastic networks, and data analytics. Click [here](./files/CV.pdf) for a brief CV.
 
